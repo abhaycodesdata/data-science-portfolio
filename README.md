@@ -18,3 +18,4 @@ Presented in the form of **Jupyter notebooks** and **R markdown files**.
 
 - Machine Learning  
 
+- [Convolutional Neural Networks](boston_housing/boston_housing.ipynb):
