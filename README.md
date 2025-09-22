@@ -19,3 +19,7 @@ Presented in the form of **Jupyter notebooks** and **R markdown files**.
 - Machine Learning  
 
 - [Convolutional Neural Networks](https://github.com/abhaycodesdata/data-science-portfolio/blob/main/Convolutional_Neural_Networks.ipynb):
+
+- [Recurrent Neural Networks](https://github.com/abhaycodesdata/data-science-portfolio/blob/main/Recurrent_Neural_Networks.ipynb):
+
+- [Language Modeling]:
