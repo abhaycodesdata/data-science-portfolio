@@ -34,7 +34,7 @@ This repository provides a practical demonstration of applying **statistical inf
 
 ## Contents 
 
-- [Inferential Statistics and Multivariate Regression Modeling of Housing Prices in Stockholm.pdf](https://github.com/abhaycodesdata/data-science-portfolio/blob/f05916f018bd09a501b163bae92171cc74dfaf6f/Inferential%20Statistics%20and%20Multivariate%20Regression%20Modeling%20of%20Housing%20Prices%20in%20Stockholm.pdf)):
+- [Inferential Statistics and Multivariate Regression Modeling of Housing Prices in Stockholm.pdf](https://github.com/abhaycodesdata/data-science-portfolio/blob/f05916f018bd09a501b163bae92171cc74dfaf6f/Inferential%20Statistics%20and%20Multivariate%20Regression%20Modeling%20of%20Housing%20Prices%20in%20Stockholm.pdf):
 
 - [Inferential Statistics and Multivariate Regression Modeling of Housing Prices in Stockholm.qmd](https://github.com/abhaycodesdata/data-science-portfolio/blob/f05916f018bd09a501b163bae92171cc74dfaf6f/Inferential%20Statistics%20and%20Multivariate%20Regression%20Modeling%20of%20Housing%20Prices%20in%20Stockholm.qmd)
 
