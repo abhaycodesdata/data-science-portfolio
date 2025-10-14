@@ -7,19 +7,11 @@ Presented in the form of **Jupyter notebooks** and **R markdown files**.
 
 ---
 
-## Instructions for Running Python Notebooks Locally  
-
-1. Install dependencies using `requirements.txt`.  
-2. Run notebooks as usual by using a Jupyter Notebook server, VS Code, etc.  
-
----
-
 ## Contents  
 
-- Machine Learning  
+- [Housing Prices in Stockholm: Inferential Statistics & Multivariate Regression]
 
 - [Convolutional Neural Networks](https://github.com/abhaycodesdata/data-science-portfolio/blob/main/Convolutional_Neural_Networks.ipynb):
 
 - [Recurrent Neural Networks](https://github.com/abhaycodesdata/data-science-portfolio/blob/main/Recurrent_Neural_Networks.ipynb):
 
-- [Language Modeling]:
